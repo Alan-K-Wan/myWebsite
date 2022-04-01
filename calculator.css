@@ -1,0 +1,54 @@
+td{
+  text-align: center;  
+}
+
+table{
+    empty-cells: show;
+}
+
+th{
+    padding:30px;
+    font-size: 35px;
+    background-color: black;
+    color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color:rgb(57, 60, 64);
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+}
+
+.buttonOp {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color:rgb(189, 119, 13);
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+}
+
+.buttonOth {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color:rgb(162, 169, 171);
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  color: black;
+}
